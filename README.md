@@ -39,9 +39,14 @@ from .models import bankloan,bankloanAdmin
 admin.site.register(bankloan,bankloanAdmin)
 ```
 # OUTPUT
+![imgggg](https://github.com/user-attachments/assets/8340a9fd-c90c-45cd-9411-88dc9a718971)
+
 ![Screenshot 2024-12-09 150556](https://github.com/user-attachments/assets/f6081686-a3d9-4364-9002-4d8ee69dbb89)
 
 ![Screenshot 2024-12-09 151024](https://github.com/user-attachments/assets/153fad17-fa52-401f-bf44-9c8690fea747)
+
+![Screenshot 2024-12-12 133102](https://github.com/user-attachments/assets/ce700f1e-20b3-433f-bf8f-85181aeadb8a)
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
